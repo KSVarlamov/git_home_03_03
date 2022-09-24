@@ -34,5 +34,3 @@
             System.out.println("Hello World!");
         }
     }
-
-theme: Hacker
